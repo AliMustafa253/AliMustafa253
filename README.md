@@ -8,9 +8,6 @@
   
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliMustafa253&show_icons=true">
-</p>
-<p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HxnDev&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HxnDev" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HxnDev&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ali" height="192px"/>
 </p>
 
